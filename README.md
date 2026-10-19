@@ -42,6 +42,6 @@ dashboard design, and data visualization using Excel.
 
 Kumkum Sharma
 
-<h2>📷 Dashboard Preview</h2>
+## 📷 Dashboard Preview
 
-<img src="https://github.com/kumkumsharma28/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png?raw=true" alt="Hospital Emergency Room Dashboard" width="100%">
+![Hospital Emergency Room Dashboard](dashboard.png)
