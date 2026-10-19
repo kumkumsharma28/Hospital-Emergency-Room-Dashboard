@@ -41,8 +41,6 @@ dashboard design, and data visualization using Excel.
 ## 👩‍💻 Author
 
 Kumkum Sharma
-
-
 ## 📷 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard.png)
+![Hospital Emergency Room Dashboard](./Hospital%20Emergency%20Room%20Dashboard.png)
